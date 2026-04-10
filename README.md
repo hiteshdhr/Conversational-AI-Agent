@@ -33,4 +33,4 @@ To deploy this workflow over WhatsApp Business:
 4. Manage session memory across turns locally using Redis or storing the LangGraph State linked to the phone number.
 5. Invoke the LangGraph workflow (`app.invoke()`).
 6. Retrieve the LangGraph result state `messages[-1]`, and POST that content back to the WhatsApp Business API outgoing message endpoint.
-7. Any "Tool captures" can be fired into a 
+7. Any "Tool captures" can be fired into a CRM simultaneously without user interaction block.
