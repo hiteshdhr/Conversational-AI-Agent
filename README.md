@@ -34,3 +34,13 @@ To deploy this workflow over WhatsApp Business:
 5. Invoke the LangGraph workflow (`app.invoke()`).
 6. Retrieve the LangGraph result state `messages[-1]`, and POST that content back to the WhatsApp Business API outgoing message endpoint.
 7. Any "Tool captures" can be fired into a CRM simultaneously without user interaction block.
+
+
+
+https://github.com/user-attachments/assets/5c656be2-8cbc-4bcf-971b-e88de6391d1c
+
+
+
+
+
+
